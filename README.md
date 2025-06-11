@@ -13,7 +13,8 @@ Welcome to my GitHub 😝
 
 <div align="center">
   
-  ## 🌐 Socials
+  <h2>🌐 Socials</h2>
+  
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alvanza.saputra.9)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvnzzz_)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvnz)
@@ -27,7 +28,8 @@ Welcome to my GitHub 😝
 
 <div align="center">
   
-  ## 💻 Tech Stack
+  <h2>💻 Tech Stack</h2>
+  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -61,7 +63,7 @@ Welcome to my GitHub 😝
   
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRhbHV6bDMwbjlqb215anQyM2FwYW5ndms4eGJuaXN1dDU2OWNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4no7ul3pa571e/giphy.gif" width="300"/>
 
-  <br>
+  <br><br>
 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31du7niofyemqdozhspzrwvu2dza" alt="Spotify Recently Played"/>
     </td>
