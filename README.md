@@ -61,7 +61,7 @@ Welcome to my GitHub 😝
   
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRhbHV6bDMwbjlqb215anQyM2FwYW5ndms4eGJuaXN1dDU2OWNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4no7ul3pa571e/giphy.gif" width="300"/>
 
-  <br><br>
+  <br>
 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31du7niofyemqdozhspzrwvu2dza" alt="Spotify Recently Played"/>
     </td>
