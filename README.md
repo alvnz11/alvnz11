@@ -54,7 +54,7 @@ Welcome to my GitHub 😝
   <tr align="center">
     <td>
       <img src="https://github-stats-extended.vercel.app/api?username=alvnz11&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-      <img src="https://github-streak-extended.vercel.app/?user=alvnz11&theme=apprentice&hide_border=false" alt="GitHub Streak"/><br/>
+      <img src="https://github-stats-extended.vercel.app/?user=alvnz11&theme=apprentice&hide_border=false" alt="GitHub Streak"/><br/>
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alvnz11&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td>
     <td align="center" valign="top">
